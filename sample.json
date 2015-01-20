@@ -18,11 +18,11 @@
     ],
 
     "template": [
-        "@subject1 in @subject2 from a @kind @discourse perspective"
+        "@subject1 in @subject2 from a @kind @discourse @thing"
     ],
 
     "subject1": [
-        "local testing",
+        "nuclear testing",
         "bears",
         "ticks",
         "wheelchairs",
@@ -155,6 +155,12 @@
         "literary",
         "darwinist",
         "philosophical"
-    ]
+    ],
 
+    "thing": [
+        "perspective",
+        "view",
+        "standpoint",
+        "understanding"
+    ]
 }
